@@ -1,0 +1,17 @@
+.main-div
+{
+    margin-top: 5%;
+    margin-left: 30%;
+    width:40%;
+}
+
+.option
+{
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.question
+{
+    margin-bottom:20px;
+}

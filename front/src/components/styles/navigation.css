@@ -1,0 +1,13 @@
+span{
+    padding:8px;
+    background-color:antiquewhite;
+    border:2 px solid black;
+    display:block;
+}
+
+.navigation
+{
+    display:flex;
+    justify-content:center;
+    margin-top:5%;
+}

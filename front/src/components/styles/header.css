@@ -1,0 +1,7 @@
+.header{
+    display:flex;
+    justify-content:space-around;
+    padding: 10px;
+    height:30px;
+    background-color:pink;
+}
